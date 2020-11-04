@@ -1,4 +1,4 @@
-# Descrete_Structures
+# Discrete_Structures
 Programing Requirement:
 1. Write function def Infix2Postfix(Infix):
 a. Input: Infix is a string of logical operators (Table 1) and alphabet characters
